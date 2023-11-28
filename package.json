@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/DamonOehlman/beandat",
   "dependencies": {
-    "dat": "^9.8.2",
+    "dat": "^12.0.0",
     "kgo": "^4.0.3",
     "quitter": "^1.0.0"
   }
